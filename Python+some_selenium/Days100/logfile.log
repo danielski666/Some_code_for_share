@@ -1,0 +1,4 @@
+2025-01-27 14:47:28,763 : INFO : pytestDemo.test_logging : Information statement.
+2025-01-27 14:47:28,764 : WARNING : pytestDemo.test_logging : Something is in warning mode.
+2025-01-27 14:47:28,764 : ERROR : pytestDemo.test_logging : A major error has happend!
+2025-01-27 14:47:28,764 : CRITICAL : pytestDemo.test_logging : Critical Issue!
