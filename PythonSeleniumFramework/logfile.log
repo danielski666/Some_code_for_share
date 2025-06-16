@@ -1,0 +1,22 @@
+2025-02-04 14:37:50,232 : INFO : test_form_submission : first name is Name
+2025-02-04 14:37:51,949 : INFO : test_form_submission : first name is Rahul
+2025-02-04 14:37:51,949 : INFO : test_form_submission : first name is Rahul
+2025-02-04 14:38:04,530 : INFO : test_e2e : get all card titles
+2025-02-04 14:38:04,625 : INFO : test_e2e : iphone X
+2025-02-04 14:38:04,651 : INFO : test_e2e : Samsung Note 8
+2025-02-04 14:38:04,675 : INFO : test_e2e : Nokia Edge
+2025-02-04 14:38:04,699 : INFO : test_e2e : Blackberry
+2025-02-04 14:38:05,422 : INFO : test_e2e : Entering country name as ind
+2025-02-04 14:38:10,926 : INFO : test_e2e : text received from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-02-04 14:38:39,604 : INFO : test_form_submission : first name is Name
+2025-02-04 14:38:41,748 : INFO : test_form_submission : first name is Rahul
+2025-02-04 14:38:41,748 : INFO : test_form_submission : first name is Rahul
+2025-02-04 14:38:53,090 : INFO : test_e2e : get all card titles
+2025-02-04 14:38:53,390 : INFO : test_e2e : iphone X
+2025-02-04 14:38:53,428 : INFO : test_e2e : Samsung Note 8
+2025-02-04 14:38:53,458 : INFO : test_e2e : Nokia Edge
+2025-02-04 14:38:53,485 : INFO : test_e2e : Blackberry
+2025-02-04 14:38:54,234 : INFO : test_e2e : Entering country name as ind
+2025-02-04 14:39:00,670 : INFO : test_e2e : text received from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
